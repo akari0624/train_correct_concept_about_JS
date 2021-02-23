@@ -1,4 +1,4 @@
-# build strong about Javascript
+# build strong knowledge about core Javascript concept
 
 ### this project is initialed from create-react-app template
 
